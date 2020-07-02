@@ -1,6 +1,5 @@
 ---
 title: "DAY1"
-date: {{ page.date | date_to_xmlschema }}
 categories:
     - blog
 tags:
